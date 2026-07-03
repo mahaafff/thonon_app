@@ -1,16 +1,27 @@
-# thonon_app
+# Thonon App
 
-A new Flutter project.
+A mobile application for Thonon Home Healthcare Association.
 
-## Getting Started
+## Current Status
 
-This project is a starting point for a Flutter application.
+This project is currently in the Front-End development phase using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Completed
+- UI Design
+- Navigation between screens
+- Responsive layouts
+- Reusable widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### In Progress
+- Backend integration
+- API connection
+- Database integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+- Flutter
+- Dart
+
+## Project Purpose
+
+This application is being developed to digitize and simplify the services provided by Thonon Home Healthcare Association through a modern mobile application.
